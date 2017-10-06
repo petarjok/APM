@@ -6,6 +6,6 @@ import { Component} from '@angular/core'
 })
 
 export class ProductListComponent{
-    pageTitle:string ='Product List'
+    pageTitle:string ='Product List tt tt tt'
 }
 
